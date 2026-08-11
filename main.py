@@ -17,10 +17,10 @@ VisionRunningMode = mp.tasks.vision.RunningMode
 mp_drawing =mp.tasks.vision.drawing_utils
 
 
-left_eye= [362, 365, 387, 263, 373, 380]
+left_eye= [362, 385, 387, 263, 373, 380]
 right_eye =[33, 160,158,133,153,144]
 mouth= [61,291,39,181,0,17,269,405]
-ear_threshold= 0.81
+ear_threshold= 0.21
 mar_threshold= 0.6
 consec_frames= 3
 
