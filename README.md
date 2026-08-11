@@ -36,5 +36,4 @@ drowsy-driver-detection/
 ├── main.py
 ├── alarm.wav
 ├── requirements.txt
-├── README.md
-└── screenshots/
+└── README.md
